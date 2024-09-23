@@ -1,2 +1,2 @@
 # abhilashaportfolio
-I dveloped this portfolio website using react js framework 
+I developed this portfolio website using react js framework 
